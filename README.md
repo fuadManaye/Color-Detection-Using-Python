@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/99038978/209124422-87b8c9b0-8bcb-420a-be7e-406da3ece691.PNG)
 # Color-Detection-Using-Python
 
 A Color Detection Python is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.Also, this Python Color Detection Using OpenCV is the process of detecting the name of any color.
