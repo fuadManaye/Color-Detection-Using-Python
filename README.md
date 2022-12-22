@@ -1,6 +1,7 @@
 # Color-Detection-Using-Python
-- A Color Detection Python is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.Also, this Python Color Detection Using OpenCV is the process of detecting the name of any color.
-- It's a system where you can automatically find the color name by clicking on them. So for this, we will have a data file containing the color name and its values. Then we calculate the distance from each color and get the shortest.
+
+A Color Detection Python is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.Also, this Python Color Detection Using OpenCV is the process of detecting the name of any color.
+It's a system where you can automatically find the color name by clicking on them. So for this, we will have a data file containing the color name and its values. Then we calculate the distance from each color and get the shortest.
 
 - The project folder contains 3 files:
 1. main.py : main source code of our project
